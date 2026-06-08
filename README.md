@@ -1,11 +1,54 @@
-# 💫 About Me:
-Soy un Desarrollador de Software, con Licenciatura en Ingeniería de Sistemas y una fuerte vocación hacia el Backend y un objetivo claro a largo plazo: convertirme en Arquitecto de Software.
+<div align="center">
+  <h1>Hi there, I'm Winsor Omar! 👋</h1>
+  <h3>Software Engineer | Backend Specialist & Future Software Architect</h3>
+  <p><b>Building resilient, highly scalable systems and product-driven digital architectures.</b></p>
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wimpi18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/winsor-omar-orellana-vasquez)
+---
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat-square&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=flat-square&logo=vitest&logoColor=FCC72B) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+### ⚡ The Product-Minded Engineer
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=wimpi18&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+> "If you can do something today, you should just do it today" — Boris Cherny
+
+I am a **Systems Engineering graduate** from UMSS with a deep specialization in building robust backend ecosystems and an ultimate career goal of becoming a **Software Architect** <!--[cite: 1] -->. 
+
+What sets me apart from the typical developer is my background as a **Product Manager Intern** and **Project Manager** <!--[cite: 1] -->. I don’t just write code; I translate complex business requirements into clear, efficient architectural blueprints <!--[cite: 1] -->. I understand agile workflows, focus intensely on team development velocity, and design database structures from the ground up to ensure absolute security and scalability <!--[cite: 1] -->.
+
+*   🔭 **Currently focusing on:** Advanced system design, microservices, and expanding enterprise patterns with C#/.NET <!--[cite: 1] -->.
+*   🌱 **Core Philosophy:** Eliminate system redundancies and automate manual processes.
+*   💬 **Ask me about:** Clean Architecture, TypeScript ecosystem, relational vs non-relational database design, and agile methodologies <!--[cite: 1] -->.
+
+---
+
+### 💻 Tech Stack & Tooling
+
+#### 🔹 Backend & Architecture
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) <!--[cite: 1] --> ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) <!--[cite: 1] --> ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) <!--[cite: 1] --> ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) <!--[cite: 1] --> ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) <!--[cite: 1] --> ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) <!--[cite: 1] --> ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) <!--[cite: 1] --> ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) <!--[cite: 1] --> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) <!--[cite: 1] -->
+
+#### 🔹 Databases & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) <!--[cite: 1] --> ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) <!--[cite: 1] --> ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) <!--[cite: 1] --> ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) <!--[cite: 1] --> ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) <!--[cite: 1] --> ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) <!--[cite: 1] -->
+
+#### 🔹 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) <!--[cite: 1] --> ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) <!--[cite: 1] --> ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) <!--[cite: 1] --> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) <!--[cite: 1] --> ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) <!--[cite: 1] -->
+
+#### 🔹 DevOps & Management
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) <!--[cite: 1] --> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) <!--[cite: 1] --> ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) <!--[cite: 1] --> ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) <!--[cite: 1] --> ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) <!--[cite: 1] --> ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) <!--[cite: 1] -->
+
+---
+
+### 🚀 Featured Engineering Projects
+
+📁 **Full Stack Digitalization Platform | Grupo Scout La Salle** <!--[cite: 1] -->
+*   **Role:** Full Stack Developer (Freelance) <!--[cite: 1] -->
+*   **Tech Stack:** TypeScript, React, NestJS, Yup, Jira <!--[cite: 1] -->
+*   **Engineering Impact:** Architected and developed a comprehensive core system to transition paper-bound institutional legacy workflows into an integrated cloud space <!--[cite: 1] -->. Engineered automated validation schemas that completely eradicated manual data-entry errors, centralizing institutional records and saving dozens of administrative hours monthly <!--[cite: 1] -->.
+
+📁 **University Parking Management System | UMSS** <!--[cite: 1] -->
+*   **Role:** Backend Developer <!--[cite: 1] -->
+*   **Tech Stack:** Java, Spring Boot, Relational Database Design <!--[cite: 1] -->
+*   **Engineering Impact:** Engineered a secure server ecosystem to handle vehicle entry registries, real-time allocations, and institutional access logs <!--[cite: 1] -->. Eradicated a critical double-payment vulnerability by introducing precise transactional ledger structures and an automated invoice-receipt generation pipeline <!--[cite: 1] -->.
+
+📁 **CochaAI Conference Web Infrastructure** <!--[cite: 1] -->
+*   **Role:** Frontend Developer <!--[cite: 1] -->
+*   **Tech Stack:** Angular, TypeScript, Responsive UI Design <!--[cite: 1] -->
+*   **Engineering Impact:** Developed the high-performance user interface for a large-scale artificial intelligence conference registration system <!--[cite: 1] -->. Built an optimized administrative control dashboard allowing event staff to push content components and live schedule modifications instantly without system downtime <!--[cite: 1] -->.
